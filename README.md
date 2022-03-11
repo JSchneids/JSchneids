@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am spatial data scientist
+#### I am a spatial data scientist
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jakob-j-schneider)
 
