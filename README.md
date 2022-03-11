@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### I am spatial data scientist
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jakob-j-schneider)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jschneids&show_icons=true&theme=radical" alt="anjali001" /></p>
+
 <!--
 **JSchneids/JSchneids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
