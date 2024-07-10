@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am a technical consultant
+#### I am a developer
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jakob-j-schneider)
 <!--
