@@ -3,11 +3,11 @@
 #### I am a developer
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jakob-j-schneider)
-<!--
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jschneids&show_icons=true&theme=tokyonight&count_private=true" alt="jschneids" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jschneids&show_icons=true&theme=tokyonight&count_private=true" alt="jschneids" /></p>
 
-
+<!--
 **JSchneids/JSchneids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
